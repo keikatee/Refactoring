@@ -1,31 +1,3 @@
-b40e01e (HEAD -> main, origin/main, origin/HEAD) Task 1.1
-a9ac81d Initial commit
-commit 478d93f7e092ade433d8c38ada0a2c5e499f7280 (HEAD -> main, origin/main, origin/HEAD)
-Author: keikatee <keito.hara8@gmail.com>
-Date:   Tue Nov 18 10:22:39 2025 -0500
-
-    Task 1.2
-commit 7b0c5d84e97fc314fedb65ef45516d89809e1002 (HEAD -> main, origin/main, origin/HEAD)
-Author: keikatee <keito.hara8@gmail.com>
-Date:   Wed Nov 19 14:23:37 2025 -0500
-
-    Task 2.1
-commit fa36d72ecc63ebce353a8bee94f232eef02f1177 (HEAD -> main, origin/main, origin/HEAD)
-Author: keikatee <keito.hara8@gmail.com>
-Date:   Wed Nov 19 14:33:02 2025 -0500
-
-    Task 2.2
-commit ceef52f9feea9877f188e9a142ec31fe2588b6e0 (HEAD -> main)
-Author: keikatee <keito.hara8@gmail.com>
-Date:   Wed Nov 19 16:33:02 2025 -0500
-
-    Task 2.3
-commit 5a829e2c6843d9643056b3978becb9c7c26a32aa (HEAD -> main)
-Author: keikatee <keito.hara8@gmail.com>
-Date:   Wed Nov 19 16:50:00 2025 -0500
-
-    Task 2.4
-
 37e7c58 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
 5a829e2 Task 2.4
 ceef52f Task 2.3
