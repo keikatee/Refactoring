@@ -1,2 +1,7 @@
 b40e01e (HEAD -> main, origin/main, origin/HEAD) Task 1.1
 a9ac81d Initial commit
+commit 478d93f7e092ade433d8c38ada0a2c5e499f7280 (HEAD -> main, origin/main, origin/HEAD)
+Author: keikatee <keito.hara8@gmail.com>
+Date:   Tue Nov 18 10:22:39 2025 -0500
+
+    Task 1.2
