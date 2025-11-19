@@ -20,3 +20,8 @@ Author: keikatee <keito.hara8@gmail.com>
 Date:   Wed Nov 19 16:33:02 2025 -0500
 
     Task 2.3
+commit 5a829e2c6843d9643056b3978becb9c7c26a32aa (HEAD -> main)
+Author: keikatee <keito.hara8@gmail.com>
+Date:   Wed Nov 19 16:50:00 2025 -0500
+
+    Task 2.4
