@@ -5,3 +5,8 @@ Author: keikatee <keito.hara8@gmail.com>
 Date:   Tue Nov 18 10:22:39 2025 -0500
 
     Task 1.2
+commit 7b0c5d84e97fc314fedb65ef45516d89809e1002 (HEAD -> main, origin/main, origin/HEAD)
+Author: keikatee <keito.hara8@gmail.com>
+Date:   Wed Nov 19 14:23:37 2025 -0500
+
+    Task 2.1
