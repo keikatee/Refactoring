@@ -25,3 +25,12 @@ Author: keikatee <keito.hara8@gmail.com>
 Date:   Wed Nov 19 16:50:00 2025 -0500
 
     Task 2.4
+
+37e7c58 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+5a829e2 Task 2.4
+ceef52f Task 2.3
+fa36d72 Task 2.2
+7b0c5d8 Task 2.1
+478d93f Task 1.2
+b40e01e Task 1.1
+a9ac81d Initial commit
